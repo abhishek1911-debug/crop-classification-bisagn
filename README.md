@@ -14,7 +14,7 @@ The system processes satellite imagery, applies spectral analysis, classifies cr
 
 ## 🎯 Objective
 
-- Automate crop type identification across large agricultural areas in Gujarat
+- Automate crop type identification across large agricultural areas in India
 - Reduce dependency on manual field surveys using satellite data
 - Provide an accessible web interface for non-technical users to upload region data and view classification outputs
 
@@ -65,7 +65,7 @@ Crop Type Map Output
 
 ## 📊 Key Outcomes
 
-- Successfully classified multiple crop types across agricultural zones in Gujarat
+- Successfully classified multiple crop types across agricultural zones in India
 - Achieved strong classification accuracy through systematic feature engineering and model tuning
 - Delivered a working, interactive web application demonstrated to BISAG-N supervisors
 - Reduced manual interpretation effort through automated ML-based pipeline
