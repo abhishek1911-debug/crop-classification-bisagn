@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-A satellite imagery-based **Crop Classification System** built to identify and map crop types across agricultural zones in Gujarat using multi-temporal remote sensing data and machine learning.
+A satellite imagery-based **Crop Classification System** built to identify and map crop types across agricultural zones in India using multi-temporal remote sensing data and machine learning.
 
 The system processes satellite imagery, applies spectral analysis, classifies crop types using ML models, and presents results through an interactive web application — enabling real-time visualization of crop distribution across selected regions.
 
